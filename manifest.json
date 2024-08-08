@@ -1,0 +1,16 @@
+{
+    "name": "2D Density Plot",
+    "description": "A 2D density plot using Plotly",
+    "resources": {
+      "js": [
+        "index.js"
+      ],
+      "css": [
+        "style.css"
+      ],
+      "config": {
+        "index.html": "index.html"
+      }
+    }
+  }
+  
