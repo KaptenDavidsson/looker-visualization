@@ -6,10 +6,10 @@
         "index.js"
       ],
       "css": [
-        "style.css"
+        "https://KaptenDavidsson.github.io/looker-visualization/style.css"
       ],
       "config": {
-        "index.html": "index.html"
+        "index.html": "https://KaptenDavidsson.github.io/looker-visualization/index.js"
       }
     }
   }
